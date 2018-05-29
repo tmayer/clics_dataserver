@@ -1,2 +1,3 @@
-# clics_dataserver
-Dataserver for the CLICS visualization
+# galactic-data
+
+Provide data for Cascadia JS presentation/visualization.
