@@ -1,3 +1,4 @@
-# galactic-data
+# Dataserver for Clics visualization
 
-Provide data for Cascadia JS presentation/visualization.
+    npm i
+    npm start
